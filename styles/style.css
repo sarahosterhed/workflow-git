@@ -19,3 +19,18 @@ footer {
 p {
     text-align: center;
 }
+
+button {
+    border: none;
+    background-color: rgb(89, 156, 89);
+    border-radius: 4px;
+    padding: 12px 24px;
+    color: white;
+    text-transform: uppercase;
+    transition: all 0.3s;
+}
+
+button:hover {
+    background-color: white;
+    color: rgb(89, 156, 89);
+}
