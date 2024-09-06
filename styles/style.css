@@ -28,6 +28,8 @@ button {
     color: white;
     text-transform: uppercase;
     transition: all 0.3s;
+    font-family: "circular", monospace, sans-serif;
+    cursor: pointer;
 }
 
 button:hover {
